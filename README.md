@@ -48,6 +48,9 @@ Check my detailed progress tracker here:
 - This repo is **not a finished project**, but a learning companion.  
 - Mistakes, revisions, and experiments are part of the journey.  
 
+📘 [Commit Message Conventions](notes/COMMIT_CONVENTIONS.md)
+
+
 ---
 
 ## 🔗 Connect
