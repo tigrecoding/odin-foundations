@@ -4,7 +4,7 @@
 
 # Prerequisites
 
-- [ ] Computer Basics ( )
+- [x] Computer Basics (2025.10.03)
   - Read: Computer Basics guide  
   - Read: Understanding operating systems  
   - Read: File systems and directories  
@@ -12,7 +12,7 @@
   - Read: Introduction to the internet  
   - Read: Computer hardware overview  
 
-- [ ] How Does the Web Work ( )
+- [x] How Does the Web Work (2025.10.04)
   - Read: What happens when you type a URL into your browser  
   - Read: Client-server model explanation  
   - Read: HTTP and HTTPS basics  
@@ -20,12 +20,13 @@
   - Read: IP addresses overview  
   - Read: Request/response cycle  
 
-- [ ] Installation Overview ( )
+- [x] Installation Overview (2025.10.04)
   - Read: Installation overview page  
 
-- [ ] Installations ( )
-  - [ ] Install Git  
-  - [ ] Install Node.js  
+- [x] Installations (2025.10.04)
+  - [x] Install Git  
+      > Completed using Git Bash on Windows (no GitHub Desktop).
+  - [x] Install Node.js  
 
 - [ ] Text Editors ( )
   - [ ] Install VS Code  
